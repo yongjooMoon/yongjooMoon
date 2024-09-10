@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yongjooMoon/yongjooMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome&nbsp;to&nbsp;yongjooMoon&nbsp;GitHub&fontSize=45&color=0:8871e5,100:b678c4&stroke=b678c4)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)

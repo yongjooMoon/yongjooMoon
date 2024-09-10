@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Welcome&nbsp;to&nbsp;yongjooMoon&nbsp;GitHub&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=back-end&nbsp;Developer&descAlignY=70)
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome&nbsp;to&nbsp;yongjooMoon&nbsp;GitHub&fontSize=45&color=0:8871e5,100:b678c4&stroke=b678c4)

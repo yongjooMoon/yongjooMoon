@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerko+One&pause=1000&color=060100&width=800&size=30&lines=I+am+Back+End+Developer;I'm+studying+from+the+front+to+the+backend.)](https://git.io/typing-svg)
 
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerko+One&pause=1000&color=060100&width=800&size=30&lines=I+am+Back+End+Developer;I'm+studying+from+the+front+to+the+backend.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerko+One&pause=1000&color=060100&width=800&size=30&lines=I'm+Back+End+Developer;I'm+studying+from+the+front+to+the+backend.)](https://git.io/typing-svg)
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YongJooMoon%20GitHub&height=150&fontSize=60&desc=Welcome&descAlignY=75&descAlign=60)
 
